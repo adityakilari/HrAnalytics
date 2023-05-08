@@ -154,3 +154,9 @@ And on testing with the random sample data both the models predicted the right o
 
 
 
+** code walkthrough and ppt link:
+ 
+ https://drive.google.com/drive/folders/14PDwCn8at5GZRjPmHgew1exAjZDwaBMm?usp=sharing
+
+
+
